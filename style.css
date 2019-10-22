@@ -1,0 +1,12 @@
+header img
+{
+    width: 60px;
+    height: 60px;
+}
+
+nav
+{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
